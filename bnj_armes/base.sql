@@ -25,3 +25,4 @@ INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('ka
 INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('flashlight', 'Lampe pour armes', -1, 0, 1);
 INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('Suppressor', 'Suppresseur', -1, 0, 1);
 INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('grip', 'Poignée', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('clip', 'Chargeur', -1, 0, 1);
